@@ -2,6 +2,8 @@
 
 * These files are part of my Udemy course about Terraform
 * Course URL: https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/?couponCode=TERRAFORM_GIT
+* github: https://github.com/wardviaene/terraform-course
+* Slides: http://assets.in4it.s3.amazonaws.com/public/udemy/learn-devops-terraform-dec2020.pdf
 
 # Compatibility
 
